@@ -16,11 +16,10 @@ For this project, I was interestested in using Stack Overflow data from 2019 to 
 
 What coding skills are expected 2020 in Germany? plans from full-time employees on Stack Overflow compared
 
-- Which language do the participants plan to work with in 2020?
-- Which database do the participants plan to work with in 2020?
-- Which plattform do the participants plan to work with in 2020?
-- Does the professional coding experience have an impact on salary?
-
+- Which programming language do developers plan to work with in 2020?
+- Which database do developers plan to work with in 2020?
+- On which platform do the participants plan to work in 2020?
+- Does professional coding experience have an impact on salary?
 
 ## File Descriptions <a name="files"></a>
 
