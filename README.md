@@ -27,7 +27,7 @@ There is one notebooks available here to showcase work related to the above ques
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/e19281dddf6b/).
+The main findings of the code can be found at the post available [here](https://medium.com/@bluebullet/what-coding-skills-are-expected-in-germany-in-2020-e19281dddf6b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
