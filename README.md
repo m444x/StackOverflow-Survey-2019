@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
 
-What coding skills are expected 2020 in Germany? Compared by full-time employees on Stack Overflow
+What coding skills are expected 2020 in Germany? plans from full-time employees on Stack Overflow compared
 
 - Which language do the participants plan to work with in 2020?
 - Which database do the participants plan to work with in 2020?
